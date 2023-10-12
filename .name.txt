@@ -1,1 +1,2 @@
 **/name.txt/**
+**/ipz231_avs@student.ztu.edu.ua/**
