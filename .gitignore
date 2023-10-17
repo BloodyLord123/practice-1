@@ -1,7 +1,0 @@
-# Ignore directories
-bin
-obj
-.vs
-.idea
-# Ignore specific file
-temporary.txt
