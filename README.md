@@ -64,3 +64,7 @@
 
 Виконав:Айсін Влад
 
+
+ipz231_avs@student.ztu.edu.ua
+
+
